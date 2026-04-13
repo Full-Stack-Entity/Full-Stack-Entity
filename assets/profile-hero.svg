@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 560" role="img" aria-labelledby="title desc">
+  <title id="title">Full-Stack-Entity GitHub Profile Hero</title>
+  <desc id="desc">A technical profile hero with a left entity sigil and a right toml-style identity panel.</desc>
+
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#162130" stroke-width="1"/>
+    </pattern>
+
+    <mask id="sigil-ring-mask">
+      <rect width="1280" height="560" fill="black"/>
+      <circle cx="322" cy="280" r="192" fill="white"/>
+      <circle cx="322" cy="280" r="136" fill="black"/>
+      <rect x="322" y="48" width="260" height="232" fill="black"/>
+    </mask>
+
+    <style>
+      .frame {
+        fill: #0a0f18;
+        stroke: #1a2432;
+        stroke-width: 2;
+      }
+      .panel {
+        fill: #0c1420;
+        stroke: #1f2e42;
+        stroke-width: 2;
+      }
+      .label {
+        fill: #7ed0ff;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 22px;
+        letter-spacing: 1.2px;
+      }
+      .comment {
+        fill: #5d718a;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 18px;
+      }
+      .key {
+        fill: #85d2ff;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 22px;
+      }
+      .value {
+        fill: #eef8ff;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 22px;
+      }
+      .value-dim {
+        fill: #f5d98c;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 22px;
+      }
+      .ascii {
+        fill: #ffffff;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 22px;
+        letter-spacing: 0.6px;
+      }
+      .fse-main {
+        fill: #eaf7ff;
+        stroke: #5c708b;
+        stroke-width: 4;
+        paint-order: stroke;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 128px;
+        font-weight: 700;
+        letter-spacing: 4px;
+      }
+      .hero-meta {
+        fill: #8da4bf;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 18px;
+      }
+    </style>
+  </defs>
+
+  <rect width="1280" height="560" fill="#05080d"/>
+  <rect x="32" y="32" width="1216" height="496" rx="28" class="frame"/>
+
+  <rect x="64" y="64" width="520" height="432" rx="20" fill="#020202" stroke="#111111" stroke-width="2"/>
+
+  <rect x="616" y="64" width="600" height="432" rx="20" class="panel"/>
+  <rect x="616" y="64" width="600" height="432" rx="20" fill="url(#grid)" opacity="0.6"/>
+
+  <g mask="url(#sigil-ring-mask)">
+    <text x="44" y="84" class="ascii">..::--==++**##%%@@@@@@%%##**++==--::..::--==++**##%%@@@@@@%%##**++==--::..</text>
+    <text x="36" y="108" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%@@@@@@@@@@%%##</text>
+    <text x="28" y="132" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%@@@@@@%%</text>
+    <text x="22" y="156" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%@@@@</text>
+    <text x="18" y="180" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%@@</text>
+    <text x="14" y="204" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%</text>
+    <text x="14" y="228" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%</text>
+    <text x="12" y="252" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%</text>
+    <text x="12" y="276" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%</text>
+    <text x="12" y="300" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%</text>
+    <text x="14" y="324" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%</text>
+    <text x="18" y="348" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%@@</text>
+    <text x="22" y="372" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%@@@@</text>
+    <text x="28" y="396" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%@@@@@@%%</text>
+    <text x="36" y="420" class="ascii">..::--==++**##%%@@@@@@@@@@@@@@%%##**++==--::..::--==++**##%%@@@@@@@@@@%%##</text>
+    <text x="44" y="444" class="ascii">..::--==++**##%%@@@@@@%%##**++==--::..::--==++**##%%@@@@@@%%##**++==--::..</text>
+  </g>
+
+  <text x="340" y="324" text-anchor="middle" class="fse-main">FSE</text>
+
+  <text x="648" y="114" class="label">entity.profile.toml</text>
+  <text x="648" y="148" class="comment"># technical-first public surface</text>
+
+  <text x="648" y="196" class="key">name</text>
+  <text x="768" y="196" class="comment">=</text>
+  <text x="794" y="196" class="value">"Full-Stack-Entity"</text>
+
+  <text x="648" y="236" class="key">mode</text>
+  <text x="768" y="236" class="comment">=</text>
+  <text x="794" y="236" class="value">"technical-first"</text>
+
+  <text x="648" y="276" class="key">lang</text>
+  <text x="768" y="276" class="comment">=</text>
+  <text x="794" y="276" class="value-dim">["EN", "中文"]</text>
+
+  <text x="648" y="316" class="key">core</text>
+  <text x="768" y="316" class="comment">=</text>
+  <text x="794" y="316" class="value-dim">["AI", "robotics", "systems"]</text>
+
+  <text x="648" y="356" class="key">signal</text>
+  <text x="768" y="356" class="comment">=</text>
+  <text x="794" y="356" class="value">"build &gt; buzzwords"</text>
+
+  <text x="648" y="432" class="hero-meta">research-driven / hardware-aware / interface-conscious</text>
+  <text x="648" y="462" class="hero-meta">building intelligence across software, hardware, and embodied systems</text>
+</svg>
