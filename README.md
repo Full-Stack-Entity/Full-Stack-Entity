@@ -24,9 +24,6 @@ robotics / deployment / sim-to-real workflow
 interface / aesthetics / technical storytelling
 ```
 
-Few public nodes, not a resume dump.  
-只展示少量公开节点，不把主页写成简历。
-
 **selected.nodes**
 
 - [RoboTwin](https://github.com/Full-Stack-Entity/RoboTwin) - simulation-side embodied intelligence workflow signal
