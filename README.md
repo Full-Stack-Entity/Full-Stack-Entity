@@ -29,7 +29,7 @@ interface / aesthetics / technical storytelling
 - [RoboTwin](https://github.com/Full-Stack-Entity/RoboTwin) - simulation-side embodied intelligence workflow signal
 - [Coding-Agent-Prompt-Template](https://github.com/Full-Stack-Entity/Coding-Agent-Prompt-Template) - agent tooling and workflow structure
 - [nankai-ai-Datashare](https://github.com/Full-Stack-Entity/nankai-ai-Datashare) - open course-material infrastructure signal
-- [Greedy-Snake-Based-on-STM32F103C8T6](https://github.com/Full-Stack-Entity/Greedy-Snake-Based-on-STM32F103C8T6) - early embedded build trace on STM32
+- [Rong-Xie-Tech-InvertedPendulum](https://github.com/Full-Stack-Entity/Rong-Xie-Tech-InvertedPendulum) - early embedded build trace on STM32
 
 ```text
 public.endpoints
