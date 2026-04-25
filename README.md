@@ -24,6 +24,23 @@ robotics / deployment / sim-to-real workflow
 interface / aesthetics / technical storytelling
 ```
 
+```text
+public.endpoints
+/github        -> https://github.com/Full-Stack-Entity
+/selected-work -> repositories below
+/status        -> active / learning / building
+```
+
+**selected.nodes**
+
+- [CSAPP-lab](https://github.com/Full-Stack-Entity/CSAPP-lab) - a facade-grade CS:APP lab archive spanning data representation, reverse engineering, architecture, caches, shells, allocators, and proxy systems.
+- [Norepinephrine-Flow](https://github.com/Full-Stack-Entity/Norepinephrine-Flow) - the codebase behind an under-review embodied intelligence paper on neuromodulated flow matching and generative planning.
+- [RoboTwin](https://github.com/Full-Stack-Entity/RoboTwin) - simulation-side embodied intelligence workflow signal
+- [Coding-Agent-Prompt-Template](https://github.com/Full-Stack-Entity/Coding-Agent-Prompt-Template) - agent tooling and workflow structure
+- [nankai-ai-Datashare](https://github.com/Full-Stack-Entity/nankai-ai-Datashare) - open course-material infrastructure signal
+- [Rong-Xie-Tech-InvertedPendulum](https://github.com/Full-Stack-Entity/Rong-Xie-Tech-InvertedPendulum) - early embedded build trace on STM32
+
+
 ## Languages & Tools
 
 <p align="center">
@@ -51,25 +68,10 @@ interface / aesthetics / technical storytelling
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Full-Stack-Entity&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Full-Stack-Entity GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Full-Stack-Entity&show_icons=true&theme=transparent&hide_border=true&rank_icon=default&include_all_commits=true" alt="Full-Stack-Entity GitHub stats">
   <img height="170" src="https://streak-stats.demolab.com?user=Full-Stack-Entity&theme=transparent&hide_border=true" alt="Full-Stack-Entity GitHub streak">
 </p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Full-Stack-Entity&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Full-Stack-Entity top languages">
 </p>
-
-**selected.nodes**
-
-- [CSAPP-lab](https://github.com/Full-Stack-Entity/CSAPP-lab) - a facade-grade CS:APP lab archive spanning data representation, reverse engineering, architecture, caches, shells, allocators, and proxy systems.
-- [RoboTwin](https://github.com/Full-Stack-Entity/RoboTwin) - simulation-side embodied intelligence workflow signal
-- [Coding-Agent-Prompt-Template](https://github.com/Full-Stack-Entity/Coding-Agent-Prompt-Template) - agent tooling and workflow structure
-- [nankai-ai-Datashare](https://github.com/Full-Stack-Entity/nankai-ai-Datashare) - open course-material infrastructure signal
-- [Rong-Xie-Tech-InvertedPendulum](https://github.com/Full-Stack-Entity/Rong-Xie-Tech-InvertedPendulum) - early embedded build trace on STM32
-
-```text
-public.endpoints
-/github        -> https://github.com/Full-Stack-Entity
-/selected-work -> repositories above
-/status        -> active / learning / building
-```
