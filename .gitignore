@@ -1,3 +1,5 @@
 tests/*
 docs/*
 .superpowers/*
+.omx/
+.codex
